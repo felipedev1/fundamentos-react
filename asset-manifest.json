@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fundamentos-react/static/css/main.520e9d71.chunk.css",
+    "main.js": "/fundamentos-react/static/js/main.3d2faea3.chunk.js",
+    "main.js.map": "/fundamentos-react/static/js/main.3d2faea3.chunk.js.map",
+    "runtime-main.js": "/fundamentos-react/static/js/runtime-main.0b30a611.js",
+    "runtime-main.js.map": "/fundamentos-react/static/js/runtime-main.0b30a611.js.map",
+    "static/js/2.c201a2a4.chunk.js": "/fundamentos-react/static/js/2.c201a2a4.chunk.js",
+    "static/js/2.c201a2a4.chunk.js.map": "/fundamentos-react/static/js/2.c201a2a4.chunk.js.map",
+    "index.html": "/fundamentos-react/index.html",
+    "precache-manifest.ba5e1a48a83b4f011a07bb41f27dd273.js": "/fundamentos-react/precache-manifest.ba5e1a48a83b4f011a07bb41f27dd273.js",
+    "service-worker.js": "/fundamentos-react/service-worker.js",
+    "static/css/main.520e9d71.chunk.css.map": "/fundamentos-react/static/css/main.520e9d71.chunk.css.map",
+    "static/js/2.c201a2a4.chunk.js.LICENSE.txt": "/fundamentos-react/static/js/2.c201a2a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b30a611.js",
+    "static/js/2.c201a2a4.chunk.js",
+    "static/css/main.520e9d71.chunk.css",
+    "static/js/main.3d2faea3.chunk.js"
+  ]
+}
