@@ -1,0 +1,26 @@
+.Mega h2 {
+  margin-bottom: 15px;
+}
+
+.Mega .numeros {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+
+.Mega .bolaNumero {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 50%;
+  background-color: #004400;
+  color: #FFF;
+  border: 1px solid black;
+  box-shadow: 3px 3px rgb(0, 0, 0);
+}
+
+.Mega input{
+  font-size: 1.4rem;
+  width: 50px;
+  margin: 15px;
+}
